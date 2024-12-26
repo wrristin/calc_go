@@ -5,7 +5,7 @@
 ## Как запустить проект?
 Сначала нужно клонировать репозиторий:
 ```
-https://github.com/wrristin/calc_go.git
+git clone https://github.com/wrristin/calc_go.git
 ```
 А потом переходим в папку с проектом:
 ```
